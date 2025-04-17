@@ -8,18 +8,22 @@ Bring a new layer of danger and reward to your RedM roleplay server with this im
 **🪦 Features**
 
 •🔍 Interact with Specific Graves – Trigger grave robbing only near named graves
+
 •🧰 Item Requirement – Requires a configurable item (e.g., shovel) to begin digging.
+
 •💰 Randomized Loot – Receive random rewards from a customizable loot table.
+
 •🎨 Immersive Animations & Markers – Includes dig animations, and progress bars.
+
 •⚙️ Fully Configurable – Customize locations, required items, rewards, and more via the config.lua.
 
 🛠️ **Coming Soon**
 
-👻 Spirit Encounters – Optional chance for spirits to appear and spook or interact with players.
+•👻 Spirit Encounters – Optional chance for spirits to appear and spook or interact with players.
 
-👮 Police Notification System – Alert law roles when a robbery is underway (configurable).
+•👮 Police Notification System – Alert law roles when a robbery is underway (configurable).
 
-⛔ Per-Grave Cooldowns – Each grave will have its own cooldown system to prevent repeated looting.
+•⛔ Per-Grave Cooldowns – Each grave will have its own cooldown system to prevent repeated looting.
 
 ## 📦 Requirements
 
