@@ -7,7 +7,7 @@ Bring a new layer of danger and reward to your RedM roleplay server with this im
 
 **🪦 Features**
 
-•🔍 Interact with Specific Graves – Trigger grave robbing only near named graves
+•🔍 Interact with Specific Graves – Trigger grave robbing only near defined graves.
 
 •🧰 Item Requirement – Requires a configurable item (e.g., shovel) to begin digging.
 
